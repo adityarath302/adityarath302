@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NestJS<br><br>🌱 I’m currently learning Rust<br><br>👯 I’m looking to collaborate on FullStack, Hybrid Mobile App Dev, Backend<br><br>💬 Ask me about Frontend, Backend, Mobile, AWS<br><br>⚡ Fun fact I think I am an imposter
+🔭 I’m currently working on as a Full Stack Software Engineer<br><br>👯 I’m looking to collaborate on FullStack, Hybrid Mobile App Dev, Backend<br><br>💬 Ask me about Frontend, Backend, Mobile, AWS<br><br>⚡ Fun fact I think I am an imposter
 
 
 # 💻 Tech Stack:
